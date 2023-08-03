@@ -5,17 +5,23 @@
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/johnrob1194/ActiveDirectory-HomeLab/tree/main)
 - <b>IBM</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Microsoft Windows Defender and Firewall for Beginners]()
+- <b>Wireshark</b>
+  - [Wireshark for Beginners: Capture Packets]()
 - <b>TCPDump</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Analyze Network Traffic with TCPDump]()
 - <b>HackTheBox</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Windows Event Logs & Finding Evil]()
+  - [Intro to AD]()
+  - [Intro to Network Traffic Analysis]()
 - <b>TryHackMe</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SOC Level 1]()
+  - [Cyber Defense]()
 
 <h2> 📑 Certifications </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<b>Active Directory</b>
+- [Cer
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
